@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">UnrestrictedGetTasks</string>
+    <string name="app_description">Disable restricting Android API to get recent tasks</string>
+
+</resources>
